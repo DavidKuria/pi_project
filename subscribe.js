@@ -23,5 +23,3 @@ mqttClient.on('connect',()=> {
 
 		 },3000);
 	})
-	
-	console.log("publisher ends here");
